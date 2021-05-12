@@ -1,6 +1,0 @@
-print("hello world ")
-print("he") 
-print("gg")
-print("okok")
-print("github show ")
-print("push test ")
