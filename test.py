@@ -1,1 +1,1 @@
-print("jjjj")
+print("jj")
